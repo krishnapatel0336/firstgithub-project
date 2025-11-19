@@ -1,5 +1,9 @@
-# firstgithub-project
+# first-project
+
 
 this my first git repository.
 <br>
-Author-Krishna Patel
+Author-Krishna Patel(CSE STUDENT)
+
+
+
